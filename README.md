@@ -15,7 +15,7 @@ MONGODB_PORT=27017
 
 ### Run server
 
-Step 1: ```cd ./python-server```
+Step 1: ```cd ./server```
 
 Step 2: ```pip install -r requirements.txt```
 
@@ -23,7 +23,7 @@ Step 3: ```python server.py```
 
 ### Run client
 
-Step 1: ```cd ./react-client```
+Step 1: ```cd ./client```
 
 Step 2: ```npm install --force```
 
