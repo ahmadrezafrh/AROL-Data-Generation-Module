@@ -1,0 +1,573 @@
+[
+  {
+    "_id": {
+      "$oid": "65ef4e3375f53ca1361c1348"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185554060,
+    "folder": "Head_15",
+    "last_time": 1710185661520,
+    "machinery_uid": "JF890",
+    "n_samples": 10,
+    "samples": [
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185554060,
+        "value": 23.389
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185565367,
+        "value": 23.749
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185577390,
+        "value": 24.66
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185589415,
+        "value": 24.527
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185601432,
+        "value": 24.671
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185614052,
+        "value": 23.378
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185625462,
+        "value": 23.683
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185637477,
+        "value": 24.635
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185649501,
+        "value": 24.567
+      },
+      {
+        "name": "H15_Tcpu",
+        "time": 1710185661520,
+        "value": 24.632
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3375f53ca1361c1349"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185550790,
+    "folder": "Head_13",
+    "last_time": 1710185667516,
+    "machinery_uid": "JF890",
+    "n_samples": 24,
+    "samples": [
+      {
+        "name": "H13_Tboard",
+        "time": 1710185550790,
+        "value": 22.598
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185554060,
+        "value": 22.875
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185559359,
+        "value": 22.911
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185565367,
+        "value": 25.131
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185568371,
+        "value": 24.812
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185577382,
+        "value": 25.271
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185577390,
+        "value": 25.518
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185586409,
+        "value": 25.907
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185589415,
+        "value": 25.334
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185595912,
+        "value": 22.588
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185601432,
+        "value": 25.283
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185604431,
+        "value": 22.9
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185613445,
+        "value": 24.805
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185614052,
+        "value": 22.873
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185622455,
+        "value": 25.27
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185625462,
+        "value": 25.14
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185631467,
+        "value": 25.906
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185637477,
+        "value": 25.508
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185641026,
+        "value": 22.581
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185649496,
+        "value": 22.888
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185649501,
+        "value": 25.352
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185658503,
+        "value": 24.806
+      },
+      {
+        "name": "H13_Tcpu",
+        "time": 1710185661520,
+        "value": 25.282
+      },
+      {
+        "name": "H13_Tboard",
+        "time": 1710185667516,
+        "value": 25.27
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3375f53ca1361c134a"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185554060,
+    "folder": "Head_14",
+    "last_time": 1710185661520,
+    "machinery_uid": "JF890",
+    "n_samples": 10,
+    "samples": [
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185554060,
+        "value": 24.154
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185565367,
+        "value": 23.822
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185577390,
+        "value": 24.825
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185589415,
+        "value": 25.245
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185601432,
+        "value": 25.208
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185614052,
+        "value": 24.262
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185625462,
+        "value": 23.817
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185637477,
+        "value": 24.843
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185649501,
+        "value": 25.273
+      },
+      {
+        "name": "H14_Tcpu",
+        "time": 1710185661520,
+        "value": 25.137
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3375f53ca1361c134b"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185554060,
+    "folder": "Head_24",
+    "last_time": 1710185661520,
+    "machinery_uid": "JF890",
+    "n_samples": 10,
+    "samples": [
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185554060,
+        "value": 23.431
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185565367,
+        "value": 23.406
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185577390,
+        "value": 23.929
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185589415,
+        "value": 25.633
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185601432,
+        "value": 26.284
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185614052,
+        "value": 23.494
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185625462,
+        "value": 23.4
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185637477,
+        "value": 23.937
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185649501,
+        "value": 25.423
+      },
+      {
+        "name": "H24_Tcpu",
+        "time": 1710185661520,
+        "value": 26.167
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3575f53ca1361c134c"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185550790,
+    "folder": "Head_20",
+    "last_time": 1710185667516,
+    "machinery_uid": "JF890",
+    "n_samples": 14,
+    "samples": [
+      {
+        "name": "H20_Tboard",
+        "time": 1710185550790,
+        "value": 24.307
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185559359,
+        "value": 24.644
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185568371,
+        "value": 24.845
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185577382,
+        "value": 25.945
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185586409,
+        "value": 25.634
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185595912,
+        "value": 24.403
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185604431,
+        "value": 24.698
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185613445,
+        "value": 24.928
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185622455,
+        "value": 25.921
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185631467,
+        "value": 25.56
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185641026,
+        "value": 24.482
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185649496,
+        "value": 24.724
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185658503,
+        "value": 24.986
+      },
+      {
+        "name": "H20_Tboard",
+        "time": 1710185667516,
+        "value": 25.897
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3575f53ca1361c134d"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185550790,
+    "folder": "Head_21",
+    "last_time": 1710185667516,
+    "machinery_uid": "JF890",
+    "n_samples": 14,
+    "samples": [
+      {
+        "name": "H21_Tboard",
+        "time": 1710185550790,
+        "value": 24.776
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185559359,
+        "value": 24.387
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185568371,
+        "value": 25.65
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185577382,
+        "value": 27.043
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185586409,
+        "value": 26.166
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185595912,
+        "value": 24.766
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185604431,
+        "value": 24.378
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185613445,
+        "value": 25.646
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185622455,
+        "value": 27.046
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185631467,
+        "value": 26.156
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185641026,
+        "value": 24.761
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185649496,
+        "value": 24.375
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185658503,
+        "value": 25.645
+      },
+      {
+        "name": "H21_Tboard",
+        "time": 1710185667516,
+        "value": 27.046
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3575f53ca1361c134e"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185550790,
+    "folder": "Head_23",
+    "last_time": 1710185667516,
+    "machinery_uid": "JF890",
+    "n_samples": 14,
+    "samples": [
+      {
+        "name": "H23_Tboard",
+        "time": 1710185550790,
+        "value": 25.414
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185559359,
+        "value": 26.161
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185568371,
+        "value": 26.164
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185577382,
+        "value": 27.842
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185586409,
+        "value": 27.262
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185595912,
+        "value": 25.411
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185604431,
+        "value": 26.027
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185613445,
+        "value": 26.132
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185622455,
+        "value": 27.898
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185631467,
+        "value": 27.119
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185641026,
+        "value": 25.416
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185649496,
+        "value": 25.938
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185658503,
+        "value": 26.119
+      },
+      {
+        "name": "H23_Tboard",
+        "time": 1710185667516,
+        "value": 27.943
+      }
+    ]
+  }
+]

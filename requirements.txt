@@ -1,0 +1,10 @@
+Flask
+Flask-PyMongo
+Flask-CORS
+plotly==5.14.1
+matplotlib==3.5.1
+pandas==1.5.3
+kaleido==0.2.1
+tqdm==4.64.1
+pytorch-forecasting==1.0.0
+pymongo==4.6.1

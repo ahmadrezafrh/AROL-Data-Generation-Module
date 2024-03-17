@@ -1,0 +1,74 @@
+{
+    "locations": [
+      {
+        "name": "Mirafiori Sud, Torino",
+        "equipment": [
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 45.013658, "y": 7.618732 },
+            "locationCluster": "Mirafiori Sud, Torino",
+            "modelID": "EM",
+            "modelName": "Elevatore Meccanico",
+            "modelType": "Elevatore capsule",
+            "numHeads": 1,
+            "uid": "XB056"
+          },
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 45.014035, "y": 7.6194 },
+            "locationCluster": "Mirafiori Sud, Torino",
+            "modelID": "EQUA",
+            "modelName": "Equatorque PK",
+            "modelType": "Tappatore",
+            "numHeads": 24,
+            "uid": "JF890"
+          },
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 45.013674, "y": 7.620022 },
+            "locationCluster": "Mirafiori Sud, Torino",
+            "modelID": "EUPK-FB",
+            "modelName": "Euro PK Flat Buffer",
+            "modelType": "Tappatore",
+            "numHeads": 24,
+            "uid": "WM100"
+          },
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 45.013505, "y": 7.619129 },
+            "locationCluster": "Mirafiori Sud, Torino",
+            "modelID": "EQUA",
+            "modelName": "Equatorque PK",
+            "modelType": "Tappatore",
+            "numHeads": 24,
+            "uid": "JF891"
+          }
+        ]
+      },
+      {
+        "name": "Canelli, Asti",
+        "equipment": [
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 44.729519, "y": 8.296058 },
+            "locationCluster": "Canelli, Asti",
+            "modelID": "EM",
+            "modelName": "Elevatore Meccanico",
+            "modelType": "Elevatore capsule",
+            "numHeads": 1,
+            "uid": "XB098"
+          },
+          {
+            "companyID": "1",
+            "geoLocation": { "x": 44.729826, "y": 8.295413 },
+            "locationCluster": "Canelli, Asti",
+            "modelID": "EQUA",
+            "modelName": "Equatorque PK",
+            "modelType": "Tappatore",
+            "numHeads": 24,
+            "uid": "JF893"
+          }
+        ]
+      }
+    ]
+  }

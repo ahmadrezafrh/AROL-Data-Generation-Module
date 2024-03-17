@@ -1,0 +1,562 @@
+[
+  {
+    "_id": {
+      "$oid": "65ef4e2d75f53ca1361c1340"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185549709,
+    "folder": "Head_01",
+    "last_time": 1710185666512,
+    "machinery_uid": "JF890",
+    "n_samples": 33,
+    "samples": [
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185549709,
+        "value": 189.69
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185551340,
+        "value": 189.806
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185556353,
+        "value": 189.87
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185556691,
+        "value": 21.184
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185561360,
+        "value": 189.95
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185566366,
+        "value": 190.042
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185571374,
+        "value": 21.514
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185571724,
+        "value": 189.69
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185576380,
+        "value": 189.806
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185581400,
+        "value": 189.87
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185586407,
+        "value": 21.819
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185586419,
+        "value": 189.95
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185591414,
+        "value": 190.042
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185596754,
+        "value": 189.743
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185601428,
+        "value": 189.859
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185601430,
+        "value": 22.107
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185606433,
+        "value": 189.912
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185611440,
+        "value": 189.995
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185616447,
+        "value": 190.078
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185616450,
+        "value": 22.298
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185621880,
+        "value": 189.743
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185626460,
+        "value": 189.858
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185631470,
+        "value": 189.912
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185631841,
+        "value": 21.198
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185636473,
+        "value": 189.994
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185641480,
+        "value": 190.078
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185646487,
+        "value": 21.527
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185646836,
+        "value": 189.751
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185651493,
+        "value": 189.867
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185656499,
+        "value": 189.919
+      },
+      {
+        "name": "H01_stsTotalCount",
+        "time": 1710185661508,
+        "value": 21.833
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185661515,
+        "value": 190.002
+      },
+      {
+        "name": "H01_MaxLockPosition",
+        "time": 1710185666512,
+        "value": 190.084
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e2d75f53ca1361c1341"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185549709,
+    "folder": "Head_06",
+    "last_time": 1710185666512,
+    "machinery_uid": "JF890",
+    "n_samples": 25,
+    "samples": [
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185549709,
+        "value": 190.998
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185551340,
+        "value": 190.994
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185556353,
+        "value": 191.006
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185561360,
+        "value": 191.009
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185566366,
+        "value": 191.013
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185571724,
+        "value": 190.998
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185576380,
+        "value": 190.994
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185581400,
+        "value": 191.006
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185586419,
+        "value": 191.009
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185591414,
+        "value": 191.013
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185596754,
+        "value": 190.998
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185601428,
+        "value": 190.994
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185606433,
+        "value": 191.007
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185611440,
+        "value": 191.009
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185616447,
+        "value": 191.013
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185621880,
+        "value": 190.998
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185626460,
+        "value": 190.994
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185631470,
+        "value": 191.007
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185636473,
+        "value": 191.009
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185641480,
+        "value": 191.013
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185646836,
+        "value": 190.998
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185651493,
+        "value": 190.994
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185656499,
+        "value": 191.007
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185661515,
+        "value": 191.009
+      },
+      {
+        "name": "H06_MaxLockPosition",
+        "time": 1710185666512,
+        "value": 191.013
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e2d75f53ca1361c1342"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185549709,
+    "folder": "Head_05",
+    "last_time": 1710185666512,
+    "machinery_uid": "JF890",
+    "n_samples": 25,
+    "samples": [
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185549709,
+        "value": 189.919
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185551340,
+        "value": 189.985
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185556353,
+        "value": 189.994
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185561360,
+        "value": 190.031
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185566366,
+        "value": 190.099
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185571724,
+        "value": 189.919
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185576380,
+        "value": 189.985
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185581400,
+        "value": 189.994
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185586419,
+        "value": 190.031
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185591414,
+        "value": 190.099
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185596754,
+        "value": 189.919
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185601428,
+        "value": 189.985
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185606433,
+        "value": 189.994
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185611440,
+        "value": 190.03
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185616447,
+        "value": 190.099
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185621880,
+        "value": 189.919
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185626460,
+        "value": 189.985
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185631470,
+        "value": 189.994
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185636473,
+        "value": 190.03
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185641480,
+        "value": 190.099
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185646836,
+        "value": 189.919
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185651493,
+        "value": 189.984
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185656499,
+        "value": 189.994
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185661515,
+        "value": 190.03
+      },
+      {
+        "name": "H05_MaxLockPosition",
+        "time": 1710185666512,
+        "value": 190.099
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3075f53ca1361c1343"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185556691,
+    "folder": "Head_12",
+    "last_time": 1710185661508,
+    "machinery_uid": "JF890",
+    "n_samples": 8,
+    "samples": [
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185556691,
+        "value": 22.827
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185571374,
+        "value": 22.924
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185586407,
+        "value": 22.982
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185601430,
+        "value": 23.075
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185616450,
+        "value": 23.163
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185631841,
+        "value": 22.826
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185646487,
+        "value": 22.923
+      },
+      {
+        "name": "H12_stsTotalCount",
+        "time": 1710185661508,
+        "value": 22.981
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "65ef4e3075f53ca1361c1344"
+    },
+    "day": "Mon Mar 11 2024",
+    "first_time": 1710185556691,
+    "folder": "Head_10",
+    "last_time": 1710185661508,
+    "machinery_uid": "JF890",
+    "n_samples": 8,
+    "samples": [
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185556691,
+        "value": 22.751
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185571374,
+        "value": 22.867
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185586407,
+        "value": 22.955
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185601430,
+        "value": 23.102
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185616450,
+        "value": 23.156
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185631841,
+        "value": 22.751
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185646487,
+        "value": 22.867
+      },
+      {
+        "name": "H10_stsTotalCount",
+        "time": 1710185661508,
+        "value": 22.955
+      }
+    ]
+  }
+]
